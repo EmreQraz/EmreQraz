@@ -104,7 +104,7 @@ Senior-year **Software Engineering** undergraduate at **Istanbul Nişantaşı Un
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/EmreQraz">CareerAI — AI-Driven Career & Interview Suite</a></h4>
+      <h4><a href="https://github.com/EmreQraz/CareerAI">CareerAI — AI-Driven Career & Interview Suite</a></h4>
       <p><i>Intelligent Resume Optimization & Technical Interview Simulator</i></p>
       <ul>
         <li><b>Automated ATS Analysis:</b> Designed an AI-assisted evaluation pipeline that parses candidate resumes against industry benchmarks to maximize ATS compatibility.</li>
