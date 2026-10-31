@@ -78,7 +78,7 @@ Senior-year **Software Engineering** undergraduate at **Istanbul Nişantaşı Un
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/EmreQraz/QrazCart">QrazCart — Modernized E-Commerce Platform</a></h4>
+      <h4><a href="https://github.com/EmreQraz/QrazCart-Laravel">QrazCart — Modernized E-Commerce Platform</a></h4>
       <p><i>Full-Stack System Migration & Relational Database Architecture</i></p>
       <ul>
         <li><b>Legacy Modernization:</b> Re-engineered a monolithic procedural PHP codebase into a scalable, strictly typed <b>Laravel 11 MVC</b> application on <b>PHP 8.2</b>.</li>
@@ -90,7 +90,7 @@ Senior-year **Software Engineering** undergraduate at **Istanbul Nişantaşı Un
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/EmreQraz">Starfall — 3D Sci-Fi Puzzle Simulation</a></h4>
+      <h4><a href="https://github.com/EmreQraz/Starfall">Starfall — 3D Sci-Fi Puzzle Simulation</a></h4>
       <p><i>Senior Capstone Project — Interactive 3D Systems & Mechanics</i></p>
       <ul>
         <li><b>Kinematics & Camera Systems:</b> Engineered a custom first-person (FPS) character controller and smooth camera rig in <b>Unity 3D</b> using <b>C#</b>.</li>
@@ -116,7 +116,7 @@ Senior-year **Software Engineering** undergraduate at **Istanbul Nişantaşı Un
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/EmreQraz">Low-Level C & POSIX Algorithm Suite</a></h4>
+      <h4><a href="https://github.com/EmreQraz/C-Programming-Practices">Low-Level C & POSIX Algorithm Suite</a></h4>
       <p><i>42 Network Piscine — Systems Programming & Memory Discipline</i></p>
       <ul>
         <li><b>Zero-Dependency Routines:</b> Built foundational string, memory, and I/O utility functions in <b>C</b> relying strictly on the POSIX <code>write</code> system call.</li>
@@ -144,6 +144,6 @@ Senior-year **Software Engineering** undergraduate at **Istanbul Nişantaşı Un
 ### GitHub Analytics & Repository Metrics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EmreQraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreQraz&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img height="165em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmreQraz&theme=github_dark" alt="GitHub Stats" />
+  <img height="165em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmreQraz&theme=github_dark" alt="Top Languages" />
 </div>
